@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   cd_dir.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: acoudouy <acoudouy@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jfeuilla <jfeuilla@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/05/28 10:46:24 by acoudouy          #+#    #+#             */
-/*   Updated: 2020/06/07 11:12:50 by acoudouy         ###   ########.fr       */
+/*   Created: 2021/03/16 18:38:48 by jfeuilla          #+#    #+#             */
+/*   Updated: 2021/03/16 18:38:48 by jfeuilla         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "../inc/minishell.h"
 
